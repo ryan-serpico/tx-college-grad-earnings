@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "79588598", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "3", "tags": { "name": "Mexican American Catholic College", "amenity": "college" }, "changeset": "77589749", "timestamp": "2019-11-26T17:50:54" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.546608, 29.452672 ], [ -98.5454309, 29.4525611 ], [ -98.54405, 29.452431 ], [ -98.5440287, 29.4526075 ], [ -98.543922, 29.453494 ], [ -98.5456559, 29.4536616 ], [ -98.546478, 29.453741 ], [ -98.546608, 29.452672 ] ] ] } }
+]
+}

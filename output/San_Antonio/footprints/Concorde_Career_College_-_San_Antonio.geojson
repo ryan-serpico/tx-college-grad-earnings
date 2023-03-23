@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "276333653", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "4", "tags": { "name": "Concorde Career College - San Antonio", "email": "SanAntonio@concorde.edu", "phone": "210-598-8090", "amenity": "college", "website": "https://www.concorde.edu/sanantonio", "building": "college", "addr:city": "San Antonio", "addr:unit": "200", "addr:state": "TX", "addr:street": "Northwest Loop 410", "addr:country": "US", "addr:postcode": "78229", "addr:housenumber": "4803" }, "changeset": "87534780", "timestamp": "2020-07-04T15:50:15" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.5827724, 29.4903121 ], [ -98.5825138, 29.4896197 ], [ -98.5819283, 29.4897854 ], [ -98.5820391, 29.4900821 ], [ -98.582025, 29.4900861 ], [ -98.5820608, 29.4901819 ], [ -98.5820793, 29.4901767 ], [ -98.5821912, 29.4904766 ], [ -98.5827724, 29.4903121 ] ] ] } }
+]
+}

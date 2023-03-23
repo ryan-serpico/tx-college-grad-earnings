@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "279006411", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "3", "tags": { "name": "Southern Careers Institute", "amenity": "college", "building": "college", "addr:city": "San Antonio", "addr:state": "TX", "addr:street": "Northwest Loop 410", "addr:country": "US", "addr:housenumber": "6963" }, "changeset": "73559875", "timestamp": "2019-08-21T00:51:59" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.6278753, 29.4584276 ], [ -98.6273805, 29.4581156 ], [ -98.6272442, 29.4582795 ], [ -98.6272031, 29.4582537 ], [ -98.6270858, 29.4583948 ], [ -98.6271239, 29.4584188 ], [ -98.6270027, 29.4585646 ], [ -98.6274318, 29.4588351 ], [ -98.6277428, 29.4584612 ], [ -98.6278115, 29.4585045 ], [ -98.6278753, 29.4584276 ] ] ] } }
+]
+}

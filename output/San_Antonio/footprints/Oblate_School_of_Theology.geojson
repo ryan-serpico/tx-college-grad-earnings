@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "365783361", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "2", "tags": { "name": "Oblate School of Theology", "amenity": "college", "website": "https://www.ost.edu/", "religion": "christian", "wikidata": "Q7075131", "wikipedia": "en:Oblate School of Theology", "denomination": "catholic", "gnis:feature_id": "1343057" }, "changeset": "67368031", "timestamp": "2019-02-19T21:10:20" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.5067091, 29.5074111 ], [ -98.5066952, 29.5044066 ], [ -98.5015024, 29.5044248 ], [ -98.5015163, 29.5074294 ], [ -98.5067091, 29.5074111 ] ] ] } }
+]
+}

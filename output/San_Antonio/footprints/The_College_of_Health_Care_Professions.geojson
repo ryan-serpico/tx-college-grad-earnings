@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "712438409", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "1", "tags": { "name": "The College of Health Care Professions", "amenity": "college", "building": "college", "addr:city": "San Antonio", "addr:state": "TX", "addr:street": "Northwest Loop 410", "addr:country": "US", "addr:housenumber": "4738" }, "changeset": "73213866", "timestamp": "2019-08-10T06:28:19" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.5767925, 29.489079 ], [ -98.5767871, 29.488737 ], [ -98.5764706, 29.4887405 ], [ -98.576476, 29.4890837 ], [ -98.5767925, 29.489079 ] ] ] } }
+]
+}

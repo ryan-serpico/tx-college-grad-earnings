@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "80063562", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "4", "tags": { "ref": "NTC", "name": "Nail Technical Center", "amenity": "college", "building": "yes" }, "changeset": "9450960", "timestamp": "2011-10-02T13:45:18" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.4976383, 29.4444212 ], [ -98.4969571, 29.44442 ], [ -98.4969562, 29.4447933 ], [ -98.4970365, 29.4447934 ], [ -98.4970418, 29.4447934 ], [ -98.4970418, 29.4448192 ], [ -98.4970794, 29.4448193 ], [ -98.4971841, 29.4448195 ], [ -98.4974494, 29.44482 ], [ -98.4975508, 29.4448201 ], [ -98.4975508, 29.444791 ], [ -98.4976374, 29.4447911 ], [ -98.4976383, 29.4444212 ] ] ] } }
+]
+}

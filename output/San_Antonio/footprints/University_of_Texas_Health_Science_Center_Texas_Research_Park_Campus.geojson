@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "354961405", "isced_level": null, "name": null, "amenity": null, "capacity": null, "version": "1", "tags": { "name": "University of Texas Health Science Center Texas Research Park Campus", "amenity": "university", "addr:street": "Lambda Drive", "addr:housename": "15355" }, "changeset": "32086898", "timestamp": "2015-06-20T00:05:34" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.8001288, 29.41591 ], [ -98.8001212, 29.4155013 ], [ -98.7999548, 29.4153366 ], [ -98.7999321, 29.4142622 ], [ -98.7984187, 29.4142556 ], [ -98.7984125, 29.4144797 ], [ -98.797404, 29.4144947 ], [ -98.7974308, 29.4155993 ], [ -98.7980621, 29.4161353 ], [ -98.7984634, 29.4162192 ], [ -98.7990252, 29.4162937 ], [ -98.7993623, 29.4164196 ], [ -98.7997636, 29.4163264 ], [ -98.799999, 29.4161073 ], [ -98.8001288, 29.41591 ] ] ] } }
+]
+}
